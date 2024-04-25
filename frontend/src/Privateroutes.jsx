@@ -7,4 +7,4 @@ const PrivateRoutes = () => {
     )
 }
 
-export default PrivateRoutes
+export default PrivateRoutes;
