@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Dr.Abhijeet",
+      "expertise": ["Cardiology", "Internal Medicine"],
+      "image": "https://www.trusthospitals.in/wp-content/uploads/2015/07/shutterstock_124045702.png",
+      "email": "abhijeet@example.com",
+      "password": "$2a$08$A4uhZ1.lup/FzIGa4fZ0LOkPIkApqlB1s3UM8oKumBTlpJyOHP/a.",
+      "contact": "123-456-7890",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "date": ["Monday", "Wednesday", "Friday"],
+      "ammount": 100,
+      "is_doctor": true
+    },
+    {
+      "name": "Dr. Sarah Brown",
+      "expertise": ["Ophthalmology", "Optometry"],
+      "image": "https://www.trusthospitals.in/wp-content/uploads/2015/07/shutterstock_124045702.png",
+      "email": "sarah.brown@example.com",
+      "password": "$2a$10$y.NP4YhoVBnV7JSvRbUVJeXaA7WSyzr8/BZqjtxQj2vHxt6b5rdj2/a",
+      "contact": "123-456-7890",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "date": ["Monday", "saturday", "Friday"],
+      "ammount": 100,
+      "is_doctor": true
+      
+    }
+  ]
+  
